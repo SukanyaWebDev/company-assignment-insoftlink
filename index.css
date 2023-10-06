@@ -1,0 +1,53 @@
+.navBar {
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+    border-bottom: 2px solid gray;
+    
+
+
+}
+.formfor{
+    padding: 40px;
+}
+a{
+    text-decoration: none;
+    font-size: 30px;
+}
+.secondDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+h1{
+    font-size: 29px;
+    color: green;
+}
+.cardOne{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid gray;
+    margin-bottom: 3px;
+}
+
+.examFor{
+    display: flex;
+    flex-wrap: wrap;
+    overflow-x: auto;
+    overflow-y: auto;
+    border: 3px solid gray;
+    padding: 20px;
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 4px;
+}
+ul{
+    list-style-type: none;
+}
+
+h2{
+    color:grey;
+}
